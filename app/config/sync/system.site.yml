@@ -1,0 +1,14 @@
+uuid: 45ba027a-1512-4c1f-a256-2ecd99e520c4
+name: 'Drupal 8'
+mail: drupal@eresources.id
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
